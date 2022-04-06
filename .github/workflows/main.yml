@@ -42,7 +42,7 @@ jobs:
           context: ./
           file: ./dockerfile.v1
           push: true
-          tags: dariuszknap1/Lab06:ghfront1
+          tags: dariuszknap1/lab06:ghfront1
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
